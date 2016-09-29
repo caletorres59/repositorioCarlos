@@ -7,9 +7,10 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
+        <link href="css/miestilo.css" rel="stylesheet" type="text/css"/>
         <title></title>
     </head>
-    <body>
+    <body id="miapp">
         <form action="login.php" method="post">
             
         
